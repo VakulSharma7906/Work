@@ -14,5 +14,5 @@ for i in range(5);
    print("Hi Vakul Sharm")
 >>>>>>> Stashed changes
 
-
-print("why")
+print("hhdhdhd")
+print("dhdhd")
