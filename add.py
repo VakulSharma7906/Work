@@ -8,4 +8,8 @@ for i in range(5);
 
    print("Done")
 
+<<<<<<< Updated upstream
    print("Welcome Back")
+=======
+   print("Hi Vakul Sharm")
+>>>>>>> Stashed changes
